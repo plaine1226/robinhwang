@@ -1,0 +1,34 @@
+h1 {
+    font-size: 5vw;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+h6 {
+    font-size: 1.2vw;
+}
+
+p {
+    font-size: 1.2vw;
+}
+
+#bodyContainer {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    right: 2%;
+}
+
+#robinImg {
+    float: left;
+    padding: 0 20px 0 0;
+}
+
+#myLanguages {
+    float: left;
+    padding: 0 20px 0 0;
+}
