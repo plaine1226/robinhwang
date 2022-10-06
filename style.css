@@ -16,6 +16,10 @@ p {
     font-size: 1.1vw;
 }
 
+li {
+    font-size: 1.1vw;
+}
+
 #bodyContainer {
     position: absolute;
     top: 2%;
@@ -31,9 +35,4 @@ p {
 #myLanguages {
     float: left;
     padding: 0 26px 0 0;
-}
-
-.languages {
-    float: left;
-    padding: 0 20px 0 0;
 }
